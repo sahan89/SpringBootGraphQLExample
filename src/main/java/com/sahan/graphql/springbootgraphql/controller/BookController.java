@@ -12,13 +12,13 @@ import org.springframework.web.bind.annotation.RestController;
 
 @RequestMapping("/rest/books")
 @RestController
-public class BookResource {
+public class BookController {
 
 
     private final GraphQLService graphQLService;
 
     @Autowired
-    public BookResource(GraphQLService graphQLService) {
+    public BookController(GraphQLService graphQLService) {
         this.graphQLService = graphQLService;
     }
 
