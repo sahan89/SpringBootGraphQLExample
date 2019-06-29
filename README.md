@@ -1,3 +1,4 @@
+// Load All Books
 {
     allBooks{
     	isn
@@ -9,6 +10,7 @@
 }
 
 
+// Load Book by ID
 
 {
     book(id: "123"){
