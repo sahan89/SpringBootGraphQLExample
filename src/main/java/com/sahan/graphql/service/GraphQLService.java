@@ -1,9 +1,9 @@
-package com.sahan.graphql.springbootgraphql.service;
+package com.sahan.graphql.service;
 
-import com.sahan.graphql.springbootgraphql.model.Book;
-import com.sahan.graphql.springbootgraphql.repository.BookRepository;
-import com.sahan.graphql.springbootgraphql.service.dataFetcher.AllBooksDataFetcher;
-import com.sahan.graphql.springbootgraphql.service.dataFetcher.BookDataFetcher;
+import com.sahan.graphql.model.Book;
+import com.sahan.graphql.repository.BookRepository;
+import com.sahan.graphql.service.dataFetcher.AllBooksDataFetcher;
+import com.sahan.graphql.service.dataFetcher.BookDataFetcher;
 import graphql.GraphQL;
 import graphql.schema.GraphQLSchema;
 import graphql.schema.idl.RuntimeWiring;

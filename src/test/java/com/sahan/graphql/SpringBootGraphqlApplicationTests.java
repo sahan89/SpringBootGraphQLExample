@@ -1,4 +1,4 @@
-package com.sahan.graphql.springbootgraphql;
+package com.sahan.graphql;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

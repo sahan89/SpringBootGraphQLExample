@@ -1,4 +1,4 @@
-package com.sahan.graphql.springbootgraphql.model;
+package com.sahan.graphql.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

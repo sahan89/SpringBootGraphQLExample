@@ -1,4 +1,4 @@
-package com.sahan.graphql.springbootgraphql;
+package com.sahan.graphql;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

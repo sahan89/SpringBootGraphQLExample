@@ -1,7 +1,7 @@
-package com.sahan.graphql.springbootgraphql.service.dataFetcher;
+package com.sahan.graphql.service.dataFetcher;
 
-import com.sahan.graphql.springbootgraphql.model.Book;
-import com.sahan.graphql.springbootgraphql.repository.BookRepository;
+import com.sahan.graphql.model.Book;
+import com.sahan.graphql.repository.BookRepository;
 import graphql.schema.DataFetcher;
 import graphql.schema.DataFetchingEnvironment;
 import org.springframework.beans.factory.annotation.Autowired;
